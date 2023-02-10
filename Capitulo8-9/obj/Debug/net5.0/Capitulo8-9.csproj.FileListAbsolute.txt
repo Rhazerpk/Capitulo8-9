@@ -1,0 +1,16 @@
+C:\Users\elpri\OneDrive\Desktop\Progamacion aplicada I\Ejercicios\Capitulo8&9\Capitulo8-9\Capitulo8-9\bin\Debug\net5.0\Capitulo8-9.exe
+C:\Users\elpri\OneDrive\Desktop\Progamacion aplicada I\Ejercicios\Capitulo8&9\Capitulo8-9\Capitulo8-9\bin\Debug\net5.0\Capitulo8-9.deps.json
+C:\Users\elpri\OneDrive\Desktop\Progamacion aplicada I\Ejercicios\Capitulo8&9\Capitulo8-9\Capitulo8-9\bin\Debug\net5.0\Capitulo8-9.runtimeconfig.json
+C:\Users\elpri\OneDrive\Desktop\Progamacion aplicada I\Ejercicios\Capitulo8&9\Capitulo8-9\Capitulo8-9\bin\Debug\net5.0\Capitulo8-9.runtimeconfig.dev.json
+C:\Users\elpri\OneDrive\Desktop\Progamacion aplicada I\Ejercicios\Capitulo8&9\Capitulo8-9\Capitulo8-9\bin\Debug\net5.0\Capitulo8-9.dll
+C:\Users\elpri\OneDrive\Desktop\Progamacion aplicada I\Ejercicios\Capitulo8&9\Capitulo8-9\Capitulo8-9\bin\Debug\net5.0\ref\Capitulo8-9.dll
+C:\Users\elpri\OneDrive\Desktop\Progamacion aplicada I\Ejercicios\Capitulo8&9\Capitulo8-9\Capitulo8-9\bin\Debug\net5.0\Capitulo8-9.pdb
+C:\Users\elpri\OneDrive\Desktop\Progamacion aplicada I\Ejercicios\Capitulo8&9\Capitulo8-9\Capitulo8-9\obj\Debug\net5.0\Capitulo8-9.csproj.AssemblyReference.cache
+C:\Users\elpri\OneDrive\Desktop\Progamacion aplicada I\Ejercicios\Capitulo8&9\Capitulo8-9\Capitulo8-9\obj\Debug\net5.0\Capitulo8-9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elpri\OneDrive\Desktop\Progamacion aplicada I\Ejercicios\Capitulo8&9\Capitulo8-9\Capitulo8-9\obj\Debug\net5.0\Capitulo8-9.AssemblyInfoInputs.cache
+C:\Users\elpri\OneDrive\Desktop\Progamacion aplicada I\Ejercicios\Capitulo8&9\Capitulo8-9\Capitulo8-9\obj\Debug\net5.0\Capitulo8-9.AssemblyInfo.cs
+C:\Users\elpri\OneDrive\Desktop\Progamacion aplicada I\Ejercicios\Capitulo8&9\Capitulo8-9\Capitulo8-9\obj\Debug\net5.0\Capitulo8-9.csproj.CoreCompileInputs.cache
+C:\Users\elpri\OneDrive\Desktop\Progamacion aplicada I\Ejercicios\Capitulo8&9\Capitulo8-9\Capitulo8-9\obj\Debug\net5.0\Capitulo8-9.dll
+C:\Users\elpri\OneDrive\Desktop\Progamacion aplicada I\Ejercicios\Capitulo8&9\Capitulo8-9\Capitulo8-9\obj\Debug\net5.0\ref\Capitulo8-9.dll
+C:\Users\elpri\OneDrive\Desktop\Progamacion aplicada I\Ejercicios\Capitulo8&9\Capitulo8-9\Capitulo8-9\obj\Debug\net5.0\Capitulo8-9.pdb
+C:\Users\elpri\OneDrive\Desktop\Progamacion aplicada I\Ejercicios\Capitulo8&9\Capitulo8-9\Capitulo8-9\obj\Debug\net5.0\Capitulo8-9.genruntimeconfig.cache
